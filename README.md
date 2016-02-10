@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+I am Khine K Myint.
+I start to learn Data Science.
