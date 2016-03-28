@@ -1,3 +1,2 @@
-# hello-world
-I am Khine K Myint.
-I start to learn Data Science.
+# Assignment 3
+this is a assignment 3 of r programming by John Hopkin University in coursera
